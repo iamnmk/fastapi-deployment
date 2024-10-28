@@ -27,7 +27,7 @@ books_db = [
     {
         "id": 2,
         "title": "1984",
-        "author": "George Orwell",
+        "author": "Numaan Khan",
         "price": 12.99,
         "published_date": "1949-06-08"
     }
